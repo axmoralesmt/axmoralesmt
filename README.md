@@ -36,30 +36,30 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
+      <a href="https://github.com/axmoralesmt/Kitsch">
+        <img src="https://github.com/axmoralesmt/axmoralesmt/blob/main/Pics/KitschPic.png?raw=true"
+             alt="Social Media App"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <b>Kitsch</b><br/>
+      <sub>Social Media app, fashion themed, with messaging, posting, notification, and engagement systems.</sub><br/>
+      🔗 <a href="https://github.com/axmoralesmt/Kitsch">Repo</a>
       <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+      <sub>Tags: Kotlin, Fashion, Social-media, Notifications, Messaging</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="CI/CD Pipeline Project"
+      <a href="https://github.com/axmoralesmt/MeaLog">
+        <img src="https://github.com/axmoralesmt/axmoralesmt/blob/main/Pics/MeaLogPic.png?raw=true"
+             alt="Schedule meals app"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <b>MeaLog</b><br/>
+      <sub>App that schedules, restructures your meals depending the user preference</sub><br/>
+      🔗 <a href="https://github.com/axmoralesmt/MeaLog">Repo</a>
       <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+      <sub>Tags: Developing, Kotlin, Cooking, Data</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
