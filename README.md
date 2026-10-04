@@ -2,10 +2,10 @@
 <h1 align="center" &nbsp;>Alex Morales </h1>
 
 <table align="right" margin>
- <tr><td><a href="README_esp.md"><img src="images/esp-flag.png" height="13"> Español</a></td></tr>
- <tr><td><a href="README.md"><img src="images/uk-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_cat.md"><img src="images/cat-flag.png" height="13"> Catalá</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_esp.md"><img src="images/esp.jpg" height="13"> Español</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/uk.jpg" height="13"> English</a></td></tr>
+ <tr><td><a href="README_cat.md"><img src="images/cat.jpg" height="13"> Catalá</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr.jpg" height="13"> Français</a></td></tr>
 </table>
 ## :space_invader: &nbsp;Multiplatform Developer a looking Data Science
 
