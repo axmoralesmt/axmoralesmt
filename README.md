@@ -1,23 +1,26 @@
 
 <h1 align="center" &nbsp;>Alex Morales </h1>
 
-<table align="right" margin>
- <tr><td><a href="README_esp.md"><img src="images/esp.jpg" height="13"> Español</a></td></tr>
- <tr><td><a href="README.md"><img src="images/uk.jpg" height="13"> English</a></td></tr>
- <tr><td><a href="README_cat.md"><img src="images/cat.jpg" height="13"> Catalá</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr.jpg" height="13"> Français</a></td></tr>
+<table align="right" border="3" cellpadding="8" cellspacing="0">
+ <tr><td><a href="README_esp.md"><img src="https://github.com/axmoralesmt/axmoralesmt/blob/main/Pics/esp.jpg?raw=true" height="13"> Español</a></td></tr>
+ <tr><td><a href="README.md"><img src="https://github.com/axmoralesmt/axmoralesmt/blob/main/Pics/uk.jpg?raw=true" height="13"> English</a></td></tr>
+ <tr><td><a href="README_cat.md"><img src="https://github.com/axmoralesmt/axmoralesmt/blob/main/Pics/cat.jpg?raw=true" height="13"> Catalá</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="https://github.com/axmoralesmt/axmoralesmt/blob/main/Pics/fr.jpg?raw=true" height="13"> Français</a></td></tr>
 </table>
-## :space_invader: &nbsp;Multiplatform Developer a looking Data Science
+
+<div style="clear: both;"></div>
+
+## :space_invader: &nbsp;Multiplatform Developer looking in Data Science
 
 **`A developer with some experience`**
 
 ## :space_invader: &nbsp;About Me
 
-<p align="justify" &nbsp;>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis risus odio, vel tristique odio porttitor eget. In interdum libero sem, vitae vulputate est tempus eget. Integer et metus blandit sapien sagittis elementum non ac nibh. Sed non fringilla elit. Vestibulum cursus gravida iaculis. Nam convallis odio libero, vel iaculis nunc iaculis quis. Mauris eu augue orci. Sed volutpat fringilla nulla eu pretium. Phasellus pulvinar metus eget vulputate hendrerit. Pellentesque vulputate nunc arcu, et vulputate dui iaculis eu. Fusce ut feugiat neque. Sed arcu elit, iaculis ac nisl nec, cursus mattis quam. Morbi convallis, est quis sollicitudin condimentum, ipsum orci lacinia est, non ornare justo turpis ac enim. Sed lacinia faucibus metus, sed bibendum dui dictum eu. Curabitur in ullamcorper sem, vitae auctor ipsum. Donec feugiat lectus ac velit commodo, et pretium nulla bibendum.</p>
+<p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis risus odio, vel tristique odio porttitor eget. In interdum libero sem, vitae vulputate est tempus eget. Integer et metus blandit sapien sagittis elementum non ac nibh. Sed non fringilla elit. Vestibulum cursus gravida iaculis. Nam convallis odio libero, vel iaculis nunc iaculis quis. Mauris eu augue orci. Sed volutpat fringilla nulla eu pretium. Phasellus pulvinar metus eget vulputate hendrerit. Pellentesque vulputate nunc arcu, et vulputate dui iaculis eu. Fusce ut feugiat neque. Sed arcu elit, iaculis ac nisl nec, cursus mattis quam. Morbi convallis, est quis sollicitudin condimentum, ipsum orci lacinia est, non ornare justo turpis ac enim. Sed lacinia faucibus metus, sed bibendum dui dictum eu. Curabitur in ullamcorper sem, vitae auctor ipsum. Donec feugiat lectus ac velit commodo, et pretium nulla bibendum.</p>
 
-<p align="justify" &nbsp;>Proin eu velit viverra, pretium leo ac, blandit turpis. Duis condimentum turpis rhoncus metus aliquam faucibus. Morbi aliquam lobortis neque ac dictum. Nulla lacinia sit amet lectus vitae tincidunt. Vivamus sollicitudin turpis sit amet blandit dictum. Ut lorem turpis, porta et lectus eu, euismod viverra dui. Vivamus a metus placerat, egestas urna et, iaculis enim. Aliquam vestibulum, enim sit amet finibus convallis, ante ligula blandit libero.</p>
+<p align="justify">Proin eu velit viverra, pretium leo ac, blandit turpis. Duis condimentum turpis rhoncus metus aliquam faucibus. Morbi aliquam lobortis neque ac dictum. Nulla lacinia sit amet lectus vitae tincidunt. Vivamus sollicitudin turpis sit amet blandit dictum. Ut lorem turpis, porta et lectus eu, euismod viverra dui. Vivamus a metus placerat, egestas urna et, iaculis enim. Aliquam vestibulum, enim sit amet finibus convallis, ante ligula blandit libero.</p>
 
-<p align="justify" &nbsp;>Proin eu velit viverra, pretium leo ac, blandit turpis. Duis condimentum turpis rhoncus metus aliquam faucibus. Morbi aliquam lobortis neque ac dictum. Nulla lacinia sit amet lectus vitae tincidunt. Vivamus sollicitudin turpis sit amet blandit dictum. Ut lorem turpis, porta et lectus eu, euismod viverra dui. Vivamus a metus placerat, egestas urna et, iaculis enim. Aliquam vestibulum, enim sit amet finibus convallis, ante ligula blandit libero.</p>
+<p align="justify">Proin eu velit viverra, pretium leo ac, blandit turpis. Duis condimentum turpis rhoncus metus aliquam faucibus. Morbi aliquam lobortis neque ac dictum. Nulla lacinia sit amet lectus vitae tincidunt. Vivamus sollicitudin turpis sit amet blandit dictum. Ut lorem turpis, porta et lectus eu, euismod viverra dui. Vivamus a metus placerat, egestas urna et, iaculis enim. Aliquam vestibulum, enim sit amet finibus convallis, ante ligula blandit libero.</p>
 
 - 📫 How to reach me **axmoralesmt@gmail.com**
 
@@ -59,7 +62,7 @@
       <sub>App that schedules, restructures your meals depending the user preference</sub><br/>
       🔗 <a href="https://github.com/axmoralesmt/MeaLog">Repo</a>
       <br/>
-      <sub>Tags: Developing, Kotlin, Cooking, Data</sub>
+      <sub>Tags: Not Avaliable, Kotlin, Cooking, Data</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
@@ -95,7 +98,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Languajes/Frameworks I'm decent</h3>
+<h3 align="center">Languajes/Frameworks I understand</h3>
 
 <p align="center"> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
@@ -110,7 +113,7 @@
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">Tools I have experience with</h3>
+<h3 align="center">Tools I work with</h3>
 
 <p align="center"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
